@@ -1,0 +1,1 @@
+watchurl=https://github.com/clearlinux/bundle-chroot-builder/releases .*/v?(\d[\d.]*)\.tar\.gz
