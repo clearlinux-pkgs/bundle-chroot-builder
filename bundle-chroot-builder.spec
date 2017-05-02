@@ -4,7 +4,7 @@
 #
 Name     : bundle-chroot-builder
 Version  : 1.09
-Release  : 22
+Release  : 23
 URL      : https://github.com/clearlinux/bundle-chroot-builder/archive/v1.09.tar.gz
 Source0  : https://github.com/clearlinux/bundle-chroot-builder/archive/v1.09.tar.gz
 Summary  : No detailed summary available
